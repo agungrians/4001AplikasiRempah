@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439727268597",
+    "firebase_url": "https://fir-rempah-apps.firebaseio.com",
+    "project_id": "fir-rempah-apps",
+    "storage_bucket": "fir-rempah-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439727268597:android:6e13e57d09312add",
+        "android_client_info": {
+          "package_name": "com.agungrian.rempahkitaapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439727268597-fifsrf5mj4c5dbpb00t6cmsuaqv5jjl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agungrian.rempahkitaapps",
+            "certificate_hash": "249c4bcbd32a08e6b650f2e8a5e86ee5b83e33b9"
+          }
+        },
+        {
+          "client_id": "439727268597-8t1onctdp5m2ac3makb4nre2rc9f8gu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw30RmjD7PTmORQ7u49V63uKHuwRS0RPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439727268597-8t1onctdp5m2ac3makb4nre2rc9f8gu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
